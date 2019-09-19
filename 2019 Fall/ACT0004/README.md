@@ -2,7 +2,7 @@
 
 [TOC]
 
-![20190919](E:\Hanyang University\2019 Fall\ACT0004\20190919.jpg)
+![20190919](20190919.jpg)
 
 for print: 200dpi at least
 
