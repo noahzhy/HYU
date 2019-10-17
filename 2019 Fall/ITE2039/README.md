@@ -179,3 +179,13 @@ in Unbalanced partitioning, quicksort takes $O(n^2)$ time in **worst case**.
 
 There are $n(n-1)(n-2)$ kinds situation
 
+
+
+
+
+###  Dynamic Programming 
+
+Dynamic programming is typically to solve **optimization problems**.
+
+To find a solution with **the** optimal (minimum or maximum) value.
+
